@@ -1,0 +1,1 @@
+# next-static-web-2
